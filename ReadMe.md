@@ -1,0 +1,5 @@
+- Restore Nuget Packages
+- Build solution
+- Uses Ninject for IoC
+- Uses Nunit to run tests (ensure you have NUnit Test Adapter plugin in Visual Studio to run your tests)
+- Run Tests using Test Explorer
